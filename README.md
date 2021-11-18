@@ -2,7 +2,7 @@
 
 ## 加我提问
 
-<img src="./wechat.jpg" width="61.8%">
+<img src="./wechat.jpg" width="38.2%">
 
 ## 技术栈
 
