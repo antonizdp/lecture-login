@@ -1,5 +1,9 @@
 # 登录的前后端实现
 
+## 加我提问
+
+<img src="./wechat.jpg" width="61.8%">
+
 ## 技术栈
 
 - 前端：Vue、Vue Router、Element、axios、webpack
