@@ -1,0 +1,6 @@
+### 获取前缀列表
+GET http://localhost:3000/prefixes
+
+### 获取产品列表
+GET http://localhost:3000/products?q=hello%20js
+Authorization: Bearer 222eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTdlODY5ZmU4MjA5ODllZjI0ODY4MDUiLCJpYXQiOjE2MzU2ODcxNzR9.U0UxKiA3ylfodnL2xIND1mZK2X4Hvm6VAnC4sLyfTMU

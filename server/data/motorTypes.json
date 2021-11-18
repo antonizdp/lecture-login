@@ -1,0 +1,46 @@
+[
+  {
+    "title": "外部驱动式",
+    "code": "E"
+  },
+  {
+    "title": "贯通轴式",
+    "code": "N"
+  },
+  {
+    "title": "固定轴式",
+    "code": "C"
+  },
+  {
+    "title": "外驱电动缸",
+    "code": "EC"
+  },
+  {
+    "title": "贯通电动缸",
+    "code": "NC"
+  },
+  {
+    "title": "双运动",
+    "code": "DM"
+  },
+  {
+    "title": "开环旋转电机",
+    "code": "HS"
+  },
+  {
+    "title": "闭环旋转电机",
+    "code": "HE"
+  },
+  {
+    "title": "直流无刷电机",
+    "code": "BD"
+  },
+  {
+    "title": "直流有刷电机",
+    "code": "DC"
+  },
+  {
+    "title": "伺服电机",
+    "code": "S"
+  }
+]

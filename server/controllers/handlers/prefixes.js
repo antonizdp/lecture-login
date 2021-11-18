@@ -1,0 +1,1 @@
+const getPrefixes = async function () {}

@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "parentId": 0,
+    "code": "",
+    "title": "电机基座尺寸"
+  },
+  {
+    "id": 2,
+    "parentId": 1,
+    "code": "14",
+    "title": "14mm"
+  },
+  {
+    "id": 3,
+    "parentId": 1,
+    "code": "20",
+    "title": "20mm"
+  },
+  {
+    "id": 4,
+    "parentId": 1,
+    "code": "28",
+    "title": "28mm"
+  },
+  {
+    "id": 5,
+    "parentId": 1,
+    "code": "35",
+    "title": "35mm"
+  },
+  {
+    "id": 6,
+    "parentId": 1,
+    "code": "39",
+    "title": "39mm"
+  },
+  {
+    "id": 7,
+    "parentId": 1,
+    "code": "40",
+    "title": "40mm"
+  },
+  {
+    "id": 8,
+    "parentId": 1,
+    "code": "42",
+    "title": "42mm"
+  },
+  {
+    "id": 9,
+    "parentId": 1,
+    "code": "57",
+    "title": "57mm"
+  },
+  {
+    "id": 10,
+    "parentId": 1,
+    "code": "60",
+    "title": "60mm"
+  },
+  {
+    "id": 11,
+    "parentId": 1,
+    "code": "86",
+    "title": "86mm"
+  },
+  {
+    "id": 12,
+    "parentId": 0,
+    "code": "",
+    "title": "丝杆或者花键直径"
+  },
+  {
+    "id": 13,
+    "parentId": 12,
+    "code": "02",
+    "title": "2mm"
+  },
+  {
+    "id": 14,
+    "parentId": 12,
+    "code": "03",
+    "title": "3mm"
+  },
+  {
+    "id": 15,
+    "parentId": 12,
+    "code": "3.5",
+    "title": "3.5mm"
+  },
+  {
+    "id": 16,
+    "parentId": 12,
+    "code": "04",
+    "title": "4mm"
+  },
+  {
+    "id": 17,
+    "parentId": 12,
+    "code": "4.76",
+    "title": "4.76mm"
+  },
+  {
+    "id": 18,
+    "parentId": 12,
+    "code": "05",
+    "title": "5mm"
+  },
+  {
+    "id": 19,
+    "parentId": 12,
+    "code": "5.54",
+    "title": "5.54mm"
+  },
+  {
+    "id": 20,
+    "parentId": 12,
+    "code": "06",
+    "title": "6mm"
+  },
+  {
+    "id": 21,
+    "parentId": 12,
+    "code": "6.35",
+    "title": "6.35mm"
+  },
+  {
+    "id": 22,
+    "parentId": 12,
+    "code": "08",
+    "title": "8mm"
+  },
+  {
+    "id": 23,
+    "parentId": 12,
+    "code": "9.53",
+    "title": "9.53mm"
+  },
+  {
+    "id": 24,
+    "parentId": 12,
+    "code": "10",
+    "title": "10mm"
+  },
+  {
+    "id": 25,
+    "parentId": 12,
+    "code": "12",
+    "title": "12mm"
+  },
+  {
+    "id": 26,
+    "parentId": 12,
+    "code": "12.5",
+    "title": "12.5mm"
+  },
+  {
+    "id": 27,
+    "parentId": 12,
+    "code": "12.7",
+    "title": "12.7mm"
+  },
+  {
+    "id": 28,
+    "parentId": 12,
+    "code": "14",
+    "title": "14mm"
+  },
+  {
+    "id": 29,
+    "parentId": 12,
+    "code": "15.88",
+    "title": "15.88mm"
+  },
+  {
+    "id": 30,
+    "parentId": 12,
+    "code": "16",
+    "title": "16mm"
+  },
+  {
+    "id": 31,
+    "parentId": 12,
+    "code": "20",
+    "title": "20mm"
+  }
+]

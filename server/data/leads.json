@@ -1,0 +1,146 @@
+[
+  {
+    "title": "0.3048",
+    "code": "U"
+  },
+  {
+    "title": "0.5",
+    "code": "AA"
+  },
+  {
+    "title": "0.6096",
+    "code": "N"
+  },
+  {
+    "title": "0.635",
+    "code": "D"
+  },
+  {
+    "title": "0.79375",
+    "code": "P"
+  },
+  {
+    "title": "1",
+    "code": "AB"
+  },
+  {
+    "title": "1.2192",
+    "code": "K"
+  },
+  {
+    "title": "1.27",
+    "code": "F"
+  },
+  {
+    "title": "1.5",
+    "code": "AR"
+  },
+  {
+    "title": "1.5875",
+    "code": "A"
+  },
+  {
+    "title": "2",
+    "code": "AC"
+  },
+  {
+    "title": "2.1168",
+    "code": "S"
+  },
+  {
+    "title": "2.4384",
+    "code": "J"
+  },
+  {
+    "title": "2.5",
+    "code": "AJ"
+  },
+  {
+    "title": "2.54",
+    "code": "L"
+  },
+  {
+    "title": "3",
+    "code": "F"
+  },
+  {
+    "title": "3.175",
+    "code": "B"
+  },
+  {
+    "title": "4",
+    "code": "AD"
+  },
+  {
+    "title": "4.2331",
+    "code": "T"
+  },
+  {
+    "title": "4.8768",
+    "code": "Q"
+  },
+  {
+    "title": "5",
+    "code": "AG"
+  },
+  {
+    "title": "5.08",
+    "code": "M"
+  },
+  {
+    "title": "6",
+    "code": "AH"
+  },
+  {
+    "title": "6.35",
+    "code": "C"
+  },
+  {
+    "title": "8",
+    "code": "AE"
+  },
+  {
+    "title": "8.4582",
+    "code": "G"
+  },
+  {
+    "title": "9.525",
+    "code": "H"
+  },
+  {
+    "title": "9.7536",
+    "code": "R"
+  },
+  {
+    "title": "10",
+    "code": "AK"
+  },
+  {
+    "title": "10.16",
+    "code": "W"
+  },
+  {
+    "title": "12",
+    "code": "AM"
+  },
+  {
+    "title": "12.7",
+    "code": "Y"
+  },
+  {
+    "title": "15",
+    "code": "AN"
+  },
+  {
+    "title": "16",
+    "code": "AL"
+  },
+  {
+    "title": "20",
+    "code": "AP"
+  },
+  {
+    "title": "25.4",
+    "code": "P"
+  }
+]
